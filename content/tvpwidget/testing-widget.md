@@ -10,6 +10,6 @@
     "type": "carousel",
     "title": "Testing Widget",
     "name": "testing-widget",
-    "channelId": "117404498",
+    "channelId": "117404174",
     "layout": "bootstrap"
 }
