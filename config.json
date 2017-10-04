@@ -1,0 +1,15 @@
+{
+    "title": "testtest",
+    "baseURL": "https:\/\/tests.com\/test",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/test",
+        "firstpartycookies": true,
+        "cookiedomain": "tests.com"
+    }
+}
